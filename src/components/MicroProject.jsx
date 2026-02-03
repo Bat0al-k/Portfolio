@@ -8,7 +8,7 @@ export const microProj =[
             id: 1,
             title: "Recipe Page",
             key: "recipepage",
-            image: "/public/Projects/omelette.jpeg",
+            image: "/Projects/omelette.jpeg",
             tags: ["HTML", "CSS",],
             url: "https://recipe-page-theta-six.vercel.app/",
             git: "https://github.com/Bat0al-k",

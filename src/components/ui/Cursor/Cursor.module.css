@@ -15,4 +15,16 @@ body {
         transform 0.2s ease-out,
         width 0.2s ease-out,
         height 0.2s ease-out;
+    mix-blend-mode: difference;
+    display: block;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        cursor: none;
+    }
+
+    .cursor {
+        display: none;
+    }
 }

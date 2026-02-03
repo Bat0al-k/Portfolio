@@ -43,7 +43,7 @@ const projects = [
         id: 4,
         title: "Pet Clinic",
         key: "petclinic",
-        image: "/public/Projects/petclinic.png",
+        image: "/Projects/petclinic.png",
         tags: ["Javascript", "Tailwind CSS", "React", "Node.js", "Mongodb"],
         url: "https://pet-clinic-two.vercel.app/",
         category: "FullStack",
