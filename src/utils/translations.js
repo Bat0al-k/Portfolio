@@ -72,7 +72,11 @@ export const translations = {
             petclinic: {
                 title: "عيادة الحيوانات",
                 description: "نظام إدارة بيطري بسيط يساعد أصحاب الحيوانات والأطباء على متابعة السجلات الصحية والمواعيد والعلاجات."
-            }            
+            },
+            kitchenflow: {
+                title: " إدارة طلبات المطاعم ",
+                description: "نظام إدارة طلبات المطاعم (واجهة المطبخ)، مصمم لإدارة الطلبات الواردة بكفاءة. يوفر النظام لوحة تحكم واضحة للمطبخ حيث يمكن للموظفين: إنشاء طلبات جديدة برقم الطاولة والأصناف، عرض جميع الطلبات النشطة في الوقت الفعلي، متابعة سير الطلبات، تحديث حالة الطلب عبر مراحل مختلفة: قيد الانتظار → قيد الطهي → جاهز، حذف الطلبات عند الحاجة (قبل بدء التحضير)"
+            }         
         },
         microProjectsList: {
             recipepage: {
@@ -190,6 +194,10 @@ export const translations = {
             petclinic: {
                 title: "Pet Clinic",
                 description: "A friendly veterinary management system designed to help pet owners and vets keep track of pets’ health records, appointments, and treatments."
+            },
+            kitchenflow: {
+                title: "Kitchen Flow",
+                description: "a Restaurant Order Management System (Kitchen View),designed to manage incoming orders efficiently.The system provides a clear kitchen dashboard where staff can: Create new orders with table number and items View all active orders in real-time order flow Update order status through different stages: Pending → Cooking → Ready Delete orders when necessary (before preparation)"
             }            
         },
         microProjectsList: {
