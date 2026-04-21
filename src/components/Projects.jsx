@@ -50,6 +50,17 @@ const projects = [
         git: "https://github.com/Bat0al-k",
         description: "a friendly veterinary management system designed to help pet owners and vets keep track of pets’ health records, appointments, and treatments.",
     },
+    {
+        id: 5,
+        title: "Kitchen Flow",
+        key: "kitchenflow",
+        image: "/Projects/kitchenflow.png",
+        tags: ["TypeScript", "Tailwind CSS", "Next.js", "Node.js", "Mongodb"],
+        url: "https://kitchen-flow-system.vercel.app/",
+        category: "FullStack",
+        git: "https://github.com/Bat0al-k",
+        description: "a Restaurant Order Management System (Kitchen View),designed to manage incoming orders efficiently.The system provides a clear kitchen dashboard where staff can: Create new orders with table number and items View all active orders in real-time order flow Update order status through different stages: Pending → Cooking → Ready Delete orders when necessary (before preparation)",
+    },
 ];
 
 export const Projects = () => {
